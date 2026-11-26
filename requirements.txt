@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+pyyaml
+litellm
+prometheus-client==0.26.0

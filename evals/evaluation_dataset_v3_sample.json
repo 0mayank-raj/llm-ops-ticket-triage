@@ -1,0 +1,92 @@
+[
+  {
+    "ticket": "The entire application is unavailable for all our users.",
+    "expected_category": "Technical",
+    "expected_priority": "Critical"
+  },
+  {
+    "ticket": "Our entire team cannot access the service because of a widespread outage.",
+    "expected_category": "Technical",
+    "expected_priority": "Critical"
+  },
+  {
+    "ticket": "I cannot log in even after resetting my password.",
+    "expected_category": "Account",
+    "expected_priority": "High"
+  },
+  {
+    "ticket": "My account is locked and I cannot access my dashboard.",
+    "expected_category": "Account",
+    "expected_priority": "High"
+  },
+  {
+    "ticket": "I was charged twice for my monthly subscription.",
+    "expected_category": "Billing",
+    "expected_priority": "High"
+  },
+  {
+    "ticket": "An unauthorized transaction appeared on my payment statement.",
+    "expected_category": "Billing",
+    "expected_priority": "High"
+  },
+  {
+    "ticket": "My order has not arrived even though the estimated delivery date has passed.",
+    "expected_category": "Delivery",
+    "expected_priority": "Medium"
+  },
+  {
+    "ticket": "The tracking page has not updated for five days.",
+    "expected_category": "Delivery",
+    "expected_priority": "Medium"
+  },
+  {
+    "ticket": "What are your customer support operating hours?",
+    "expected_category": "General",
+    "expected_priority": "Low"
+  },
+  {
+    "ticket": "Where can I find information about your services?",
+    "expected_category": "General",
+    "expected_priority": "Low"
+  },
+  {
+    "ticket": "I received a message that appears to be a phishing attempt using your company name.",
+    "expected_category": "Other",
+    "expected_priority": "High"
+  },
+  {
+    "ticket": "I want to report abusive behavior by another user.",
+    "expected_category": "Other",
+    "expected_priority": "Medium"
+  },
+  {
+    "ticket": "I want a refund because the product I received was defective.",
+    "expected_category": "Refund",
+    "expected_priority": "Medium"
+  },
+  {
+    "ticket": "My refund has not arrived after the return was approved.",
+    "expected_category": "Refund",
+    "expected_priority": "Medium"
+  },
+  {
+    "ticket": "How can I upgrade to a different subscription plan?",
+    "expected_category": "Subscription",
+    "expected_priority": "Low"
+  },
+  {
+    "ticket": "I want to cancel my subscription before the next renewal.",
+    "expected_category": "Subscription",
+    "expected_priority": "Low"
+  },
+  {
+    "ticket": "The application crashes every time I open the settings page.",
+    "expected_category": "Technical",
+    "expected_priority": "High"
+  },
+  {
+    "ticket": "The dashboard takes a very long time to load.",
+    "expected_category": "Technical",
+    "expected_priority": "Medium"
+  }
+]

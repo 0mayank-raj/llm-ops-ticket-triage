@@ -1,0 +1,27 @@
+[
+    {
+        "ticket": "I cannot log in to my account even after resetting my password.",
+        "expected_category": "Account",
+        "expected_priority": "High"
+    },
+    {
+        "ticket": "I was charged twice for my monthly subscription.",
+        "expected_category": "Billing",
+        "expected_priority": "High"
+    },
+    {
+        "ticket": "The mobile application crashes whenever I open it.",
+        "expected_category": "Technical",
+        "expected_priority": "High"
+    },
+    {
+        "ticket": "I would like to know how to change my profile picture.",
+        "expected_category": "General",
+        "expected_priority": "Low"
+    },
+    {
+        "ticket": "Can you explain the different subscription plans available?",
+        "expected_category": "General",
+        "expected_priority": "Low"
+    }
+]

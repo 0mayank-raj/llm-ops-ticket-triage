@@ -1,0 +1,10 @@
+services:
+  api:
+    build: .
+    image: llmops-ticket-triage:v1
+    container_name: llmops-api-compose
+    ports:
+      - "8001:8000"
+    env_file:
+      - .env
+    restart: unless-stopped
